@@ -346,7 +346,5 @@
 
   [WISE 2023 Annual Report and Accounts](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://wise.com/imaginary-v2/Wise-Annual-Report-Accounts-FY2023.pdf)
 
-
-
      
 
